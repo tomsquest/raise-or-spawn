@@ -11,3 +11,6 @@ $ raise-or-spawn firefox
 #  - brings firefox to the front (show the panel)
 #  - or if no firefox application is running, spawn a new `fixefox` command
 ```
+## Status
+
+Work-in-progress
